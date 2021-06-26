@@ -1,0 +1,34 @@
+h1{
+text-align: center;
+}
+table{
+    width:95%;   
+    border-color: brown;
+    border-style:unset;
+    align-self: center;
+}
+.personalinformation{
+    text-align: left;
+    padding-right: 1cm;
+}
+.careerfont{
+    font-family:Georgia;
+}
+.biography{
+    padding-left: 2%;
+}
+.cv{
+margin-left: 3%;
+margin-top: 3%;
+margin-right: 3%;
+}
+.pic{
+    height: 150px;
+    width: 150px;
+
+    
+}
+.CurriculumVitae{
+color:powderblue;
+text-align: center;
+}
